@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @extSayzz // Justin
 - 👀 I’m interested in Java/AntiExploit Coding.
 - 📫 How to reach me on Discord -> extSayzz#8503
-- ❤️ David
