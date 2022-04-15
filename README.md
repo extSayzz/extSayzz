@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @extSayzz // Justin
+- 👋 Hi, I’m @RandomException // Justin
 - 👀 I’m interested in Java/AntiExploit Coding.
-- 📫 How to reach me on Discord -> extSayzz#8503
+- 📫 How to reach me on Discord -> RandomException#8503
