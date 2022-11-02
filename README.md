@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @extSayzz
-- 👀 I’m interested in Java/AntiExploit Coding.
-- 📫 How to reach me on Discord -> extSayzz#5037
+
